@@ -1,0 +1,20 @@
+-Component State and Redux is aim to solve you application state.
+-So both solves the same problem tracking , chnaging data.
+
+-Component state vs Redux 
+1. simple application and complex application
+-State can be managed in simple pplication with component state.
+-When there is only one component tree then application state cn be managed by component state.
+-When we have multiple component tree , sharing data between those component is not easy.
+So it is not a good way to go with component state. it cn be solved with Redux.
+
+2. Components Really aren't reusable.
+- Component tree is communicating a lot due to the component state and props. And it makes difficult to use component again. 
+-Because child compnent is expecting so many things from parent.
+
+
+-What is Redux:
+-Redux is state container.
+-Redux is used to mange state.
+-It is like object like we store state.
+-Redux defines what data component needs and what data needs to be changed.
