@@ -1,0 +1,6 @@
+-Advantages of Webpack:
+
+1. When you run your javascript application through webpack it gives you a single bundled javascript file.
+so that bundle file contains all the dependencies and our application code.
+
+

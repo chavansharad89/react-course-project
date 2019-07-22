@@ -2,6 +2,7 @@
 
 # dependencies
 /indecision-app/node_modules
+/expensify/node_modules
 /.pnp
 .pnp.js
 
